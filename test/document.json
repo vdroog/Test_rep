@@ -1,0 +1,41 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "do_objectID": "94a2fdd0-96bb-11e7-995f-67fbdad3d0c3",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "pages": [
+    "Page 1",
+    "kjdhlsdgf"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    },
+    "com.lingoapp.lingo": {
+      "first_version": 89,
+      "min_version": 84,
+      "version": 89
+    }
+  }
+}
